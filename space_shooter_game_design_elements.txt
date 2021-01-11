@@ -1,0 +1,29 @@
+game design elements:
+characters	playing characters and non-playing characters
+goal
+rules
+balance
+adaptivity
+elements of chance	elements of skill
+feedback
+
+story:
+There is a space shooter trying to shoot out asteroids coming from the sky, and only has 5 lives before completing each level.
+As the level increases the asteroids' speed increases. Try and beat all 5 levels before losing all 5 lives.
+
+game design elements:
+characters: space shooter(playing character)
+characters: asteroids(non-playing character)
+
+goal: complete all 5 levels before losing 5 lives
+
+rules: only 5 lives, the game ends when you lose 5 lives, and you win if you complete all 5 levels
+
+balance: 5 lives for 5 levels
+
+adaptivity: as the level increases the asteroids become harder to hit
+
+elements of chance: where the asteroids are coming from
+elements of skill: where the playing is shooting them(accuracy)
+
+feedback: when you go to the next level, when you lose 5 lives, or when you beat the game
